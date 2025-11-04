@@ -29,17 +29,6 @@
 - 🎯 Life Motto: *"Keep coding, keep growing."*  
 - ⚡ Fun fact: I love simplifying complex topics for my students!
 
-<h2 align="left">📊 GitHub Stats:</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esraa-shaban&show_icons=true&theme=radical" alt="Esraa's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esraa-shaban&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraa-shaban&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
 <h2 align="left">🤝 Let's Connect:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Esraa_Shabaan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esraa-shaban)](https://www.linkedin.com/in/esraa-shaban)  
