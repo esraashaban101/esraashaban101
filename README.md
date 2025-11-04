@@ -31,7 +31,5 @@
 
 <h2 align="left">🤝 Let's Connect:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Esraa_Shabaan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esraa-shaban)](https://www.linkedin.com/in/esraa-shaban)
-[![Gmail Badge](https://img.shields.io/badge/-esraa.shaban.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:esraa.shaban.dev@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-Esraa_Shabaan-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/esraa-shaban)](https://github.com/esraa-shaban)
-[![Instagram Badge](https://img.shields.io/badge/-@esraa.codes-D7008A?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/esraa.codes/)
+[![Linkedin Badge](https://img.shields.io/badge/-Esraa_Shabaan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esraa-shaban)](https://www.linkedin.com/in/esraa-shaban)  
+[![Gmail Badge](https://img.shields.io/badge/-es915419@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:es915419@gmail.com)
